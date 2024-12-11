@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcontroller
+!s110 1733739143
+!i10b 1
+!s100 bgS<=Z;7;47Z`lK:zA;N_3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I15KlA13lK=MX;_^io4VVA3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/univrsity/DLDLAB/quiz2
+w1733738725
+8D:/univrsity/DLDLAB/quiz2/controller.v
+FD:/univrsity/DLDLAB/quiz2/controller.v
+!i122 9
+L0 1 43
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1733739143.000000
+!s107 D:/univrsity/DLDLAB/quiz2/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/DLDLAB/quiz2/controller.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vTB
+!s110 1733739144
+!i10b 1
+!s100 =D25^<jAKo4N]6e[XjBo63
+R0
+ILi?I9:Zhgaf2S@][L0idD3
+R1
+R2
+w1733739134
+8D:/univrsity/DLDLAB/quiz2/TB.v
+FD:/univrsity/DLDLAB/quiz2/TB.v
+!i122 10
+L0 2 62
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/univrsity/DLDLAB/quiz2/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/univrsity/DLDLAB/quiz2/TB.v|
+!i113 1
+R5
+R6
+n@t@b

@@ -1,0 +1,89 @@
+# Compile of controller.v was successful.
+# Compile of TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Start time: 13:26:18 on Dec 09,2024
+# Loading work.TB
+# Loading work.controller
+add wave -position insertpoint  \
+sim:/TB/clk \
+sim:/TB/Xinput \
+sim:/TB/rst \
+sim:/TB/Yout
+run -all
+# ** Note: $finish    : D:/univrsity/DLDLAB/quiz2/TB.v(59)
+#    Time: 540 ps  Iteration: 0  Instance: /TB
+# 1
+# Break in Module TB at D:/univrsity/DLDLAB/quiz2/TB.v line 59
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Compile of controller.v was successful.
+# Compile of TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $finish    : D:/univrsity/DLDLAB/quiz2/TB.v(59)
+#    Time: 540 ps  Iteration: 0  Instance: /TB
+# 1
+# Break in Module TB at D:/univrsity/DLDLAB/quiz2/TB.v line 59
+add wave -position end  sim:/TB/contr/ps
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.controller
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $finish    : D:/univrsity/DLDLAB/quiz2/TB.v(59)
+#    Time: 540 ps  Iteration: 0  Instance: /TB
+# 1
+# Break in Module TB at D:/univrsity/DLDLAB/quiz2/TB.v line 59
+restart -f
+# Compile of controller.v was successful.
+# Compile of controller.v was successful.
+# Compile of TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $finish    : D:/univrsity/DLDLAB/quiz2/TB.v(59)
+#    Time: 540 ps  Iteration: 0  Instance: /TB
+# 1
+# Break in Module TB at D:/univrsity/DLDLAB/quiz2/TB.v line 59
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.controller
+# Compile of controller.v was successful.
+# Compile of TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $finish    : D:/univrsity/DLDLAB/quiz2/TB.v(60)
+#    Time: 540 ps  Iteration: 0  Instance: /TB
+# 1
+# Break in Module TB at D:/univrsity/DLDLAB/quiz2/TB.v line 60
+# Compile of controller.v was successful.
+# Compile of TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.controller
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $finish    : D:/univrsity/DLDLAB/quiz2/TB.v(60)
+#    Time: 220 ps  Iteration: 0  Instance: /TB
+# 1
+# Break in Module TB at D:/univrsity/DLDLAB/quiz2/TB.v line 60
+# End time: 14:03:07 on Dec 09,2024, Elapsed time: 0:36:49
+# Errors: 0, Warnings: 2
